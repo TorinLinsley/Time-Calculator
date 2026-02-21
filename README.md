@@ -1,2 +1,14 @@
-# Time-Calculator
+# Time Calculator
 时间计算器
+
+## 概述
+做了一个普通的计算器时分秒转换没有的，更方便 用来计算时间的工具。遇到一些：需要直接计算一个比较大的时间（时/分/秒），加或减、需要连续计算加/减多次...等等的场景时，可以使用此工具。
+
+## 下载安装与使用
+在 Release （发行）中下载`TimeCalculator.exe`
+若计算机没安装过.NET Framework，需要把`dotNET_Framework_4.7.2_Setup.exe`也下载然后把.Net安装上。
+
+打开`TimeCalculator.exe`即可使用。
+
+## 其它
+.vs文件夹没法上传所以就打包了，若选择下载该项目，下载后需要把`.vs.zip`解压出来。
