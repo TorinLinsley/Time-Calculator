@@ -6,7 +6,8 @@
 
 ## 下载安装与使用
 在 Release （发行）中下载`TimeCalculator.exe`
-若计算机没安装过.NET Framework，需要把`dotNET_Framework_4.7.2_Setup.exe`也下载然后把.Net安装上。
+
+该程序采用.NET Framework框架制作，若计算机没安装过.NET Framework，需要把 Release 中的`dotNET_Framework_4.7.2_Setup.exe`也下载然后把.Net安装上。
 
 打开`TimeCalculator.exe`即可使用。
 
