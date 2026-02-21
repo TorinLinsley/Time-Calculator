@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TImeCalculator", "TImeCalculator\TImeCalculator.csproj", "{04EF3A76-8F47-4D10-B72A-910CC580E667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Debug|x64.ActiveCfg = Debug|x64
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Debug|x64.Build.0 = Debug|x64
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Release|x64.ActiveCfg = Release|x64
+		{04EF3A76-8F47-4D10-B72A-910CC580E667}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A4449C-4D61-4177-9F29-14C034C9A6DA}
+	EndGlobalSection
+EndGlobal
