@@ -1,0 +1,12 @@
+D:\VS_Project\TImeCalculator\TImeCalculator\bin\Release\TimeCalculator.exe.config
+D:\VS_Project\TImeCalculator\TImeCalculator\bin\Release\TimeCalculator.exe
+D:\VS_Project\TImeCalculator\TImeCalculator\bin\Release\TimeCalculator.pdb
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TImeCalculator.csproj.AssemblyReference.cache
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TImeCalculator.TimeCalc.resources
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TimeCalculator.HelpForm.resources
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TimeCalculator.Properties.Resources.resources
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TImeCalculator.csproj.GenerateResource.cache
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TImeCalculator.csproj.CoreCompileInputs.cache
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TimeCalculator.exe
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TimeCalculator.pdb
+D:\VS_Project\TImeCalculator\TImeCalculator\obj\Release\TimeCalculator.exe.config
