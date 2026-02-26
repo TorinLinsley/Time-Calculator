@@ -10,6 +10,3 @@
 该程序采用.NET Framework框架制作，若计算机没安装过.NET Framework，需要把 Release 中的`dotNET_Framework_4.7.2_Setup.exe`也下载然后把.Net安装上。
 
 打开`TimeCalculator_版本号.exe`即可使用。
-
-## 其它
-.vs文件夹没法上传所以就打包了，若选择下载该项目，下载后需要把`.vs.zip`解压出来。
