@@ -7,14 +7,14 @@
 ## 下载安装与使用
 
 ### Windows
-在 Release（发行）中下载`TimeCalculator_版本号.exe`
+在 Releases（发行）中下载`TimeCalculator_版本号.exe`
 
 该程序采用.NET Framework框架制作，若计算机没安装过.NET Framework，需要把 Release 中的`dotNET_Framework_4.7.2_Setup.exe`也下载然后把.Net安装上。
 
 打开`TimeCalculator_版本号.exe`即可使用。
 
 ### 安卓（Android）
-1. 在 Release （发行）中下载`TimeCalculator_版本号.html`，用浏览器打开这个网页文件来使用。
+1. 在 Releases （发行）中下载`TimeCalculator_版本号.html`，用浏览器打开这个网页文件来使用。
 2. 下载`TimeCalculator_版本号.apk`文件，安装之后使用(本质上还是网页)。（apk安装包的仅1.1.0版本开始有，1.0.0版本的没保留下来）
 
 >### 历史
