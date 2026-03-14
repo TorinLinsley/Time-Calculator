@@ -14,8 +14,8 @@
 打开`TimeCalculator_版本号.exe`即可使用。
 
 ### 安卓（Android）
-1. 在 Release （发行）中下载`Time_Calculator_版本号.html`，用浏览器打开这个网页文件来使用。
-2. 下载`Time_Calculator_版本号.apk`文件，安装之后使用。（apk安装包的仅1.1.0版本开始有，1.0.0版本的没保留下来）
+1. 在 Release （发行）中下载`TimeCalculator_版本号.html`，用浏览器打开这个网页文件来使用。
+2. 下载`TimeCalculator_版本号.apk`文件，安装之后使用(本质上还是网页)。（apk安装包的仅1.1.0版本开始有，1.0.0版本的没保留下来）
 
 >### 历史
 >2025年，Python和html网页版的时间计算器是最先做做出来。
